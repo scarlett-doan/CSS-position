@@ -7,8 +7,17 @@ body {
   background-color: bisque;
   height: 30em; /* vh vw em rem */
   position: absolute;
-  font-size: 60pt;
   align-items: center;
-  justify-content: stretch;
 }
 
+
+/* .container {
+  display: table;
+  background-color: bisque;
+  height: 20em; /* vh vw em rem 
+}
+
+p{
+  display: table-cell;
+  vertical-align: middle;
+} */
