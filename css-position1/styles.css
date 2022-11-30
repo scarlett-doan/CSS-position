@@ -3,6 +3,12 @@ body {
 }
 
 .container {
+  display: flex;
   background-color: bisque;
   height: 30em; /* vh vw em rem */
+  position: absolute;
+  font-size: 60pt;
+  align-items: center;
+  justify-content: stretch;
 }
+
