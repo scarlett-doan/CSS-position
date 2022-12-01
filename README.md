@@ -1,11 +1,31 @@
-# CSS Assignment
+# Summary
 
-Practice Flex and Grid system
+There are some basic examples of CSS position.
+Appying some CSS modifiers flex, grid boxes.
 
-## Requirements
+# Technologies
 
-1. Complete the styles.css files in each folder to produce the expect result
-2. There is one expected.png file in each folder, which shows the expected layout. Colors and spacing can be different, but layout is supposed to be similar.
-3. All the changes should be made to file .css only. Do not modify index.html
+![HTML5](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg "HTML5")
+![CSS](https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg "CSS")
 
-# Update readme for 1st commit
+# Structure
+
+1. css-position files
+    - each folder is to build a difference static page
+2. Each css-position file contains
+    - expected.png image: An image of expected result for styling
+    - index.html: this is a fixed-content file to make the content of page.
+    - style.css: styling file, monitor by your exp and solution to make the content shown in the same view with expected.png
+
+# Challenge
+
+In the condition of index.html file cannot be modified, update style.css file only to overcome the assignment.
+
+# How to run
+1. Download all folders
+2. Run each of index.html file
+
+[^1]: Thank you anf have fun.
+
+
+
